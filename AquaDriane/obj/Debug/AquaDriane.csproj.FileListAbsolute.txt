@@ -1,0 +1,12 @@
+D:\Pang 3rd Yr\IMDBYSYS\AquaDriane\bin\Debug\AquaDriane.exe.config
+D:\Pang 3rd Yr\IMDBYSYS\AquaDriane\bin\Debug\AquaDriane.exe
+D:\Pang 3rd Yr\IMDBYSYS\AquaDriane\bin\Debug\AquaDriane.pdb
+D:\Pang 3rd Yr\IMDBYSYS\AquaDriane\obj\Debug\AquaDriane.csproj.AssemblyReference.cache
+D:\Pang 3rd Yr\IMDBYSYS\AquaDriane\obj\Debug\AquaDriane.csproj.SuggestedBindingRedirects.cache
+D:\Pang 3rd Yr\IMDBYSYS\AquaDriane\obj\Debug\AquaDriane.AquaDrianeLogin.resources
+D:\Pang 3rd Yr\IMDBYSYS\AquaDriane\obj\Debug\AquaDriane.Properties.Resources.resources
+D:\Pang 3rd Yr\IMDBYSYS\AquaDriane\obj\Debug\AquaDriane.csproj.GenerateResource.cache
+D:\Pang 3rd Yr\IMDBYSYS\AquaDriane\obj\Debug\AquaDriane.csproj.CoreCompileInputs.cache
+D:\Pang 3rd Yr\IMDBYSYS\AquaDriane\obj\Debug\AquaDriane.exe
+D:\Pang 3rd Yr\IMDBYSYS\AquaDriane\obj\Debug\AquaDriane.pdb
+D:\Pang 3rd Yr\IMDBYSYS\AquaDriane\obj\Debug\AquaDriane.Registration.resources
